@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BACKEND
+build_property.ProjectDir = /Users/vlabs/Documents/aspnet_back_end/back-end-api/

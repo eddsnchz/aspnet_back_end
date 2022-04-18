@@ -1,0 +1,140 @@
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.deps.json
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.runtimeconfig.json
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.runtimeconfig.dev.json
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.pdb
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.AssemblyInfoInputs.cache
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.AssemblyInfo.cs
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.csproj.CoreCompileInputs.cache
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.MvcApplicationPartsAssemblyInfo.cs
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.MvcApplicationPartsAssemblyInfo.cache
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/staticwebassets/BACKEND.StaticWebAssets.Manifest.cache
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/staticwebassets/BACKEND.StaticWebAssets.xml
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/scopedcss/bundle/BACKEND.styles.css
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.RazorTargetAssemblyInfo.cache
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.csproj.CopyComplete
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.dll
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.pdb
+/Users/vlabs/Projects/BACKEND/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.genruntimeconfig.cache
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.StaticWebAssets.xml
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.deps.json
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.runtimeconfig.json
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.runtimeconfig.dev.json
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/BACKEND.pdb
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.csproj.AssemblyReference.cache
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.AssemblyInfoInputs.cache
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.AssemblyInfo.cs
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.csproj.CoreCompileInputs.cache
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.MvcApplicationPartsAssemblyInfo.cs
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.MvcApplicationPartsAssemblyInfo.cache
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/staticwebassets/BACKEND.StaticWebAssets.Manifest.cache
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.RazorTargetAssemblyInfo.cache
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.csproj.CopyComplete
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.dll
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.pdb
+/Users/vlabs/Documents/ASPNET - BACKEND/BACKEND-BASICS/BACKEND/obj/Debug/netcoreapp3.1/BACKEND.genruntimeconfig.cache
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.AssemblyInfoInputs.cache
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.AssemblyInfo.cs
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.csproj.CoreCompileInputs.cache
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.MvcApplicationPartsAssemblyInfo.cs
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.MvcApplicationPartsAssemblyInfo.cache
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/EFCoreSqlServerNetTopologySuite.cs
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/BACKEND.StaticWebAssets.xml
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/BACKEND.deps.json
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/BACKEND.runtimeconfig.json
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/BACKEND.runtimeconfig.dev.json
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/BACKEND.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/BACKEND.pdb
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/NetTopologySuite.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/NetTopologySuite.IO.SqlServerBytes.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/staticwebassets/BACKEND.StaticWebAssets.Manifest.cache
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.RazorTargetAssemblyInfo.cache
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.csproj.CopyComplete
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.dll
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.pdb
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.genruntimeconfig.cache
+/Users/vlabs/Documents/aspnet_back_end/back-end-api/obj/Debug/netcoreapp3.1/BACKEND.csproj.AssemblyReference.cache
